@@ -1,7 +1,16 @@
 /*
+Example of using xml to manage button layouts
+John Schimmel - john.schimmel@gmail.com
+
+Important
+Download the ProXML processing library
+http://creativecomputing.cc/p5libs/proxml/  
+Install into Processing Library folder
+
 1) /data/buttons.xml file is read and buttons are created.
 2) Click and drag buttons 
 3) on mouse release the buttons.xml is updated and saved.
+
 */
 
 import java.awt.*;
