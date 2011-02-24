@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<buttons>
+  <button name="L Joy">
+    <image file="button_left_joy.gif"/>
+    <position xpos="10" ypos="10"/>
+    <command string="L"/>
+  </button>
+  
+  <button name="R Joy">
+    <image file="button_right_joy.gif"/>
+    <position xpos="100" ypos="100"/>
+    <command string="R"/>
+  </button>
+
+</buttons>
+
